@@ -1,0 +1,6 @@
+{
+  "name": "POD Designer Portfolio",
+  "description": "A premium, modern, fully responsive portfolio website for a professional Print-on-Demand Apparel Designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
